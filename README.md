@@ -25,6 +25,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2022/11/22 - Today i was shown how to add diffrent sounds/images to my website 
 - 2022/01/22 - i was shown what todo when i get a pull request 
 - 2022/01/22 - i was questioned on my progress today and i responded accordingly/ i also researched my existential risk some more
 - 2022/18/22 - i created a github account and created two repositories private and public
@@ -42,3 +43,7 @@ How to use this GitHub repository as a template for your submission, including h
 - I will continue to update my todo list accordingly 
 - i will continue to research my existential risk
 - i will also look at v&r mapping 
+
+- ### in week 7 
+- i will start my website and start adding content to them
+- i will ask for help if needed 
