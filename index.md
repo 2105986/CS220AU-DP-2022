@@ -1,5 +1,5 @@
 # Title
-yes
+
 Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
 
 ## Hyperlinks
