@@ -1,3 +1,4 @@
 # The Risk that AI can pose 
-![stock-vector-humans-vs-robots-ai-artificial-intelligence-and-human-intelligence-concept-business-illustration-1075919678](https://user-images.githubusercontent.com/116067783/204494148-5e6111b9-31b5-4076-b224-ba8af186099f.jpg)
+![images](https://user-images.githubusercontent.com/116067783/204495523-1ba6e782-e802-4469-86a1-af29f39cc23a.jpg)
+
 
