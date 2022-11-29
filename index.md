@@ -4,3 +4,5 @@
 # What is an exsitential risk
 
 An exsitential risk is a massive risk that comes from an outside force that could cause massive devistation examples of this is a Nuclear Bomb or a astroid impact hitting the earth these events can some times be mitigated by an outside force or events like a astroid impact cannot be stopped.
+
+# What is A.I
