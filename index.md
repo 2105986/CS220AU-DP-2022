@@ -3,7 +3,7 @@
 
 # What is an exsitential risk
 
-An exsitential risk is a massive risk that comes from an outside force that could cause massive devistation examples of this is a Nuclear Bomb or a astroid impact hitting the earth these events can some times be mitigated by an outside force or events like a astroid impact cannot be stopped.
+An exsitential risk is a massive risk that comes from an outside force that could cause massive devistation examples of this is a Nuclear Bomb or a astroid impact hitting the earth these events can some times be mitigated by an outside force or events like a astroid impact cannot be stopped and it also causes mass devistation to everything around it and could cause other problems after the event.
 
 # What is A.I.
-A.I. Is called Artifical Intelligence and it is used in computer systems and it helps them think more like humans. Over the years A.I. started off quite small and not very smart but as the years went on and we got access to more powerful technology A.I. has become alot smarter by being able to reconstruct our faces perfectly or by solving complex maths equations in record breaking time.
+A.I. Is called Artifical Intelligence and it is used in computer systems and it helps them think more like humans. Over the years A.I. started off quite small and not very smart but as the years went on and we got access to more powerful technology A.I. has become alot smarter by being able to reconstruct our faces perfectly or by solving complex maths equations in record breaking time. There are also robots that can now have a full conversation with humans and one example of this a robot called Sofia and they invited this robot onto a show and the robot had a full converation with the host and every question that he threw at the robot she could answer. 
