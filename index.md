@@ -7,3 +7,6 @@ An exsitential risk is a massive risk that comes from an outside force that coul
 
 # What is A.I.
 A.I. Is called Artifical Intelligence and it is used in computer systems and it helps them think more like humans. Over the years A.I. started off quite small and not very smart but as the years went on and we got access to more powerful technology A.I. has become alot smarter by being able to reconstruct our faces perfectly or by solving complex maths equations in record breaking time. There are also robots that can now have a full conversation with humans and one example of this a robot called Sofia and they invited this robot onto a show and the robot had a full converation with the host and every question that he threw at the robot she could answer. 
+
+# Is A.I. an Exsitential Risk
+A.I around the world is advancing everyday and in alot of ways it can help us from robotics making tasks faster and more efficient and other A.I solving maths equations but there is a looming threat that A.I will one day take over and become more smarter then humans and people all over the world believe this theory but at this current time the A.I we have is a long way off becoming a massive threat.
