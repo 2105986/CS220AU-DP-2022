@@ -10,3 +10,4 @@ A.I. Is called Artifical Intelligence and it is used in computer systems and it 
 
 # Is A.I. an Exsitential Risk
 A.I around the world is advancing everyday and in alot of ways it can help us from robotics making tasks faster and more efficient and other A.I solving maths equations but there is a looming threat that A.I will one day take over and become more smarter then humans and people all over the world believe this theory but at this current time the A.I we have is a long way off becoming a massive threat.
+![VR Map](https://user-images.githubusercontent.com/116067783/211817297-df682062-6e61-4d12-be19-47ae5969fd7b.jpg)
