@@ -13,3 +13,5 @@ A.I around the world is advancing everyday and in alot of ways it can help us fr
 
 # VR Map
 ![VR Map](https://user-images.githubusercontent.com/116067783/211817297-df682062-6e61-4d12-be19-47ae5969fd7b.jpg)
+
+This is my VR Map and it shows my digital identity from resident, visitor,institutional and personal and this represents what i either go on or do from home or what i do in my personal home. and from the vr map while i am at university i usually only use moodle and google services such as word, powerpoint etc while im studying and i rarely use them while im at home. My visitor side to my Vr map twitch, google and email services and with these i usually only visit them if i need to search somehting or to check a quick email so i dont stay on these for a long time. My personal part is my snapchat, instagram, twitter, facebook, xbox and tv streaming services and these are the apps and programms i use while im back at home and not necessarily at uni or my work place.
