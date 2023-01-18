@@ -5,7 +5,6 @@ Marker: Dr Krisztián Hofstädter
 GitHub repository URL: https://github.com/2105986/CS220AU-DP-2022
 
 ## Checklist
-<!-- #todo : complete the checklist below by simply replacing the space with an 'x' as seen in the first checkpoint below. --> 
 
 ### General
 I made sure that
