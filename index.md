@@ -18,4 +18,4 @@ This is my VR Map and it shows my digital identity from resident, visitor,instit
 To measure my own progress, I filled in the table below using the above marking rubric.
 
 # Linking digital identities to A.I.
-As explained in the previous sections im now going to try to explain why A.I. links with digital identities and the way i believe that they do is that everyone online has there own digital identity and they create other identitys by creating accounts on other sites and by making a new website. Those are digital identites made by us and how A.I. is linked is
+As explained in the previous sections im now going to try to explain why A.I. links with digital identities and the way i believe that they do is that everyone online has there own digital identity and they create other identitys by creating accounts on other sites and by making a new website. Those are digital identites made by us and how A.I. is linked is that A.I has its own digital identity made by us and what we program into it it will become that.
