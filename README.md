@@ -28,14 +28,7 @@ The portfolio you submit needs to contain the following:
 - 2022/11/22 - i came to my first lesson and gained a basic understanding on what github is and what the outline of the module is.
 - 17/01/23 - i have now completed most of the tasks i have set out on my todo list and i am now removing them from it
 - 17/01/23 - i have completed my Vr map and i am now going to do my self assesment 
+- 18/01/23 - i have now completed everything that was on my todo list 
 <br>
 
 ## TODO
-
-- ### in week 6
-- i will continue to research my existential risk
-- i will also look at v&r mapping 
-
-- ### in week 7 
-- i will start my website and start adding content to them
-- i will ask for help if needed 
